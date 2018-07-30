@@ -1,0 +1,1 @@
+# eslint-multi-format-report
